@@ -57,3 +57,6 @@ https://youtu.be/vVyeqDbzAhw
 
 Episode 18
 https://youtu.be/s35PXQrd_88
+
+Episode 19
+https://youtu.be/q-glh5t76Mc
