@@ -54,3 +54,6 @@ https://www.youtube.com/watch?v=ltLwSAae3GA
 
 Episode 17 
 https://youtu.be/vVyeqDbzAhw
+
+Episode 18
+https://youtu.be/s35PXQrd_88
