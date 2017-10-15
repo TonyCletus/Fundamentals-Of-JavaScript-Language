@@ -1,8 +1,7 @@
 # Source-code-for-fundamentals-of-JavaScript-language-tutorial-series
 Get the source code from this repo as directed on the video tutorial.
 
-
-Links to each video episode:
+<h1>Links To Each Video Episode:</h1>
 
 Episode 1
 https://www.youtube.com/watch?v=JiCE0i5ZPmc
