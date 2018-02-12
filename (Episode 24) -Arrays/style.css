@@ -1,0 +1,37 @@
+/*
+Powered by: Code To Create CTC
+Coder: Tony Cletus
+*/
+
+/*Clear out the default margin, padding and border*/
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+/*Body Design*/
+
+body{
+  background-color: #fcad73;
+  font: 21px Comic Sans Ms;
+  text-align: center;
+  margin-top: 50px;
+}
+
+p{
+	margin-bottom: 10px;
+}
+ 
+/*button and input resizing*/   
+button, input{
+	padding: 10px;
+	color: #000;
+	font: 17px Comic Sans Ms;
+	border-radius: 10px;
+}
+
+/*Button background changes over hover*/
+button:hover{
+	background-color: #94ffa1;
+}
